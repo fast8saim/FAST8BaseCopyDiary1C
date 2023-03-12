@@ -1,0 +1,2 @@
+# FAST8BaseCopyDiary
+FAST8BaseCopyDiary
