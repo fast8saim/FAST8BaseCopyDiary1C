@@ -1,10 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<Rights xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://v8.1c.ru/8.2/roles" xsi:type="Rights" version="2.15">
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Rights xmlns="http://v8.1c.ru/8.2/roles" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="Rights" version="2.16">
 	<setForNewObjects>false</setForNewObjects>
 	<setForAttributesByDefault>false</setForAttributesByDefault>
 	<independentRightsOfChildObjects>false</independentRightsOfChildObjects>
 	<object>
-		<name>DataProcessor.FAST8Дневник_ДневникКопииБазы</name>
+		<name>DataProcessor.FAST8Diary_ДневникКопииБазы</name>
 		<right>
 			<name>Use</name>
 			<value>true</value>
@@ -15,7 +15,7 @@
 		</right>
 	</object>
 	<object>
-		<name>Configuration.FAST8ДневникКопииБазы</name>
+		<name>Configuration.FAST8BaseCopyDiary</name>
 		<right>
 			<name>MainWindowModeNormal</name>
 			<value>true</value>
