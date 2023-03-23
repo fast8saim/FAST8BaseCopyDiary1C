@@ -1,22 +1,22 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.16">
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.15">
 	<DataProcessor uuid="33e0d1cb-3fb7-4054-a7d4-e6f29fcce509">
 		<InternalInfo>
-			<xr:GeneratedType name="DataProcessorObject.FAST8Diary_ДневникКопииБазы" category="Object">
+			<xr:GeneratedType name="DataProcessorObject.fast8Diary_ДневникКопииБазы" category="Object">
 				<xr:TypeId>2b003d83-2be2-4c0a-9290-70352b6362b1</xr:TypeId>
 				<xr:ValueId>e471e570-e71d-422f-909c-dbfb860df34f</xr:ValueId>
 			</xr:GeneratedType>
-			<xr:GeneratedType name="DataProcessorManager.FAST8Diary_ДневникКопииБазы" category="Manager">
+			<xr:GeneratedType name="DataProcessorManager.fast8Diary_ДневникКопииБазы" category="Manager">
 				<xr:TypeId>a40fa071-51ec-48a3-a03f-5feed6c47c0e</xr:TypeId>
 				<xr:ValueId>e48fd439-b733-4d3d-8f3d-f5556965b1b0</xr:ValueId>
 			</xr:GeneratedType>
 		</InternalInfo>
 		<Properties>
-			<Name>FAST8Diary_ДневникКопииБазы</Name>
+			<Name>fast8Diary_ДневникКопииБазы</Name>
 			<Synonym>
 				<v8:item>
 					<v8:lang/>
-					<v8:content>FAST8 diary дневник копии базы</v8:content>
+					<v8:content>Fast8 diary дневник копии базы</v8:content>
 				</v8:item>
 				<v8:item>
 					<v8:lang>ru</v8:lang>
@@ -25,17 +25,17 @@
 			</Synonym>
 			<Comment/>
 			<UseStandardCommands>true</UseStandardCommands>
-			<DefaultForm>DataProcessor.FAST8Diary_ДневникКопииБазы.Form.FAST8Diary_Форма</DefaultForm>
+			<DefaultForm>DataProcessor.fast8Diary_ДневникКопииБазы.Form.fast8Diary_Форма</DefaultForm>
 			<AuxiliaryForm/>
 			<IncludeHelpInContents>false</IncludeHelpInContents>
 			<ExtendedPresentation/>
 			<Explanation/>
 		</Properties>
 		<ChildObjects>
-			<Form>FAST8Diary_Форма</Form>
-			<Form>FAST8Diary_ВводСобытия</Form>
-			<Form>FAST8Diary_ОПрограмме</Form>
-			<Template>FAST8Дневник_Макет</Template>
+			<Form>fast8Diary_Форма</Form>
+			<Form>fast8Diary_ВводСобытия</Form>
+			<Form>fast8Diary_ОПрограмме</Form>
+			<Template>fast8Diary_Макет</Template>
 		</ChildObjects>
 	</DataProcessor>
 </MetaDataObject>

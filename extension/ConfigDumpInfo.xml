@@ -1,22 +1,22 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.16">
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.15">
 	<ConfigVersions>
-		<Metadata name="CommonModule.FAST8Diary_ВызовСервера" id="e28c0ce6-04ee-4370-9f58-7db2d8345426" configVersion="37fd6eccf319fc6bf0aea4346a334ec966c642a0"/>
-		<Metadata name="CommonModule.FAST8Diary_ВызовСервера.Module" id="e28c0ce6-04ee-4370-9f58-7db2d8345426.0" configVersion="43747147e648d77f058b3673baa7f800f9fa4f71"/>
-		<Metadata name="Configuration.FAST8BaseCopyDiary" id="c395f97d-3787-4b92-9a1c-a1a04a601e54" configVersion="31217647e4f7baede7ee0cd39ca6718574797537"/>
-		<Metadata name="Configuration.FAST8BaseCopyDiary.ManagedApplicationModule" id="c262c4e9-ba51-45bd-aece-816f88be57f2.6" configVersion="affa4863a28850df01b4353220c11583e3add329"/>
-		<Metadata name="DataProcessor.FAST8Diary_ДневникКопииБазы" id="33e0d1cb-3fb7-4054-a7d4-e6f29fcce509" configVersion="5a0d70a398ece52c070d1e0c0a29f3f5375c6715"/>
-		<Metadata name="DataProcessor.FAST8Diary_ДневникКопииБазы.Form.FAST8Diary_ВводСобытия" id="8e1f5892-f287-4dfe-81b9-7226899322ce" configVersion="098ee1f58fc07c358e121bcd767c538170aa2e3b"/>
-		<Metadata name="DataProcessor.FAST8Diary_ДневникКопииБазы.Form.FAST8Diary_ВводСобытия.Form" id="8e1f5892-f287-4dfe-81b9-7226899322ce.0" configVersion="05d8e81fe7e163eefefb91f7896d8ebd6be85d6c"/>
-		<Metadata name="DataProcessor.FAST8Diary_ДневникКопииБазы.Form.FAST8Diary_ОПрограмме" id="80550e2a-bdb2-4da6-963e-8396f2ea464d" configVersion="1f01dbce0167af295575e6d8573e01e0600c72d8"/>
-		<Metadata name="DataProcessor.FAST8Diary_ДневникКопииБазы.Form.FAST8Diary_ОПрограмме.Form" id="80550e2a-bdb2-4da6-963e-8396f2ea464d.0" configVersion="ca945f0170c5d32dcabc4b6106048edbc47cd753"/>
-		<Metadata name="DataProcessor.FAST8Diary_ДневникКопииБазы.Form.FAST8Diary_Форма" id="a0acb468-8cf0-4dc3-95f1-04e7bcb08ec4" configVersion="20ef770922c40d95972f7d2abe3b748609d6ea13"/>
-		<Metadata name="DataProcessor.FAST8Diary_ДневникКопииБазы.Form.FAST8Diary_Форма.Form" id="a0acb468-8cf0-4dc3-95f1-04e7bcb08ec4.0" configVersion="839dec4b1a341fbe2afab1830634e355dfa534aa"/>
-		<Metadata name="DataProcessor.FAST8Diary_ДневникКопииБазы.ObjectModule" id="33e0d1cb-3fb7-4054-a7d4-e6f29fcce509.0" configVersion="e463ed658f0a9320095667065a68b727b420e787"/>
-		<Metadata name="DataProcessor.FAST8Diary_ДневникКопииБазы.Template.FAST8Дневник_Макет" id="59e1ad94-5c3d-4fb3-a014-f719bf0ae280" configVersion="6bbce9f957e09df1cbd14baf7fb71f6b357cb978"/>
-		<Metadata name="DataProcessor.FAST8Diary_ДневникКопииБазы.Template.FAST8Дневник_Макет.Template" id="59e1ad94-5c3d-4fb3-a014-f719bf0ae280.0" configVersion="55e732b3a0345689fdbf83287b9f85fb6ce30a5c"/>
+		<Metadata name="CommonModule.fast8Diary_ВызовСервера" id="e28c0ce6-04ee-4370-9f58-7db2d8345426" configVersion="a01d9010ed606731a8cb40c04dd21a4796ca8cf1"/>
+		<Metadata name="CommonModule.fast8Diary_ВызовСервера.Module" id="e28c0ce6-04ee-4370-9f58-7db2d8345426.0" configVersion="5495bc62b44f1143e599b06776099140ce626379"/>
+		<Metadata name="Configuration.FAST8BaseCopyDiary1C" id="c395f97d-3787-4b92-9a1c-a1a04a601e54" configVersion="3b71563ea7d6496072e4dad083adb71173980b49"/>
+		<Metadata name="Configuration.FAST8BaseCopyDiary1C.ManagedApplicationModule" id="c262c4e9-ba51-45bd-aece-816f88be57f2.6" configVersion="2821bdd1720f4873b1080e93acbce94a900923c5"/>
+		<Metadata name="DataProcessor.fast8Diary_ДневникКопииБазы" id="33e0d1cb-3fb7-4054-a7d4-e6f29fcce509" configVersion="10d0d2c2d042c913a2920eba7cd6d05cbdaa8a57"/>
+		<Metadata name="DataProcessor.fast8Diary_ДневникКопииБазы.Form.fast8Diary_ВводСобытия" id="8e1f5892-f287-4dfe-81b9-7226899322ce" configVersion="269c92e6891b94376fa66cafe7a60380c19c9b0e"/>
+		<Metadata name="DataProcessor.fast8Diary_ДневникКопииБазы.Form.fast8Diary_ВводСобытия.Form" id="8e1f5892-f287-4dfe-81b9-7226899322ce.0" configVersion="05d8e81fe7e163eefefb91f7896d8ebd6be85d6c"/>
+		<Metadata name="DataProcessor.fast8Diary_ДневникКопииБазы.Form.fast8Diary_ОПрограмме" id="80550e2a-bdb2-4da6-963e-8396f2ea464d" configVersion="402d3a0b3c96b7c1a18bef598c92a602b2422577"/>
+		<Metadata name="DataProcessor.fast8Diary_ДневникКопииБазы.Form.fast8Diary_ОПрограмме.Form" id="80550e2a-bdb2-4da6-963e-8396f2ea464d.0" configVersion="ca945f0170c5d32dcabc4b6106048edbc47cd753"/>
+		<Metadata name="DataProcessor.fast8Diary_ДневникКопииБазы.Form.fast8Diary_Форма" id="a0acb468-8cf0-4dc3-95f1-04e7bcb08ec4" configVersion="ad84e5fac4d2925ffa8f632b03902e56431ac500"/>
+		<Metadata name="DataProcessor.fast8Diary_ДневникКопииБазы.Form.fast8Diary_Форма.Form" id="a0acb468-8cf0-4dc3-95f1-04e7bcb08ec4.0" configVersion="3a3f790126278656d1e88abf3cff37ac8704b04c"/>
+		<Metadata name="DataProcessor.fast8Diary_ДневникКопииБазы.ObjectModule" id="33e0d1cb-3fb7-4054-a7d4-e6f29fcce509.0" configVersion="12f19cf8ea5c98a5b1c4847cd056c17e24bef4f4"/>
+		<Metadata name="DataProcessor.fast8Diary_ДневникКопииБазы.Template.fast8Diary_Макет" id="59e1ad94-5c3d-4fb3-a014-f719bf0ae280" configVersion="fdbc29c0e023ea49f810c23e2c9261116f6ad428"/>
+		<Metadata name="DataProcessor.fast8Diary_ДневникКопииБазы.Template.fast8Diary_Макет.Template" id="59e1ad94-5c3d-4fb3-a014-f719bf0ae280.0" configVersion="55e732b3a0345689fdbf83287b9f85fb6ce30a5c"/>
 		<Metadata name="Language.Русский" id="6d00a943-4cb7-4afd-a1a2-09a948b1a44f" configVersion="6901e974d6ab073c741ff80cf24a4aa3880f3e00"/>
-		<Metadata name="Role.FAST8Diary_ОсновнаяРоль" id="2161ce34-a854-4b6b-b008-22c982c435ea" configVersion="41b91a45faf1dce4e78d97ced5a7fe6f6bb6121f"/>
+		<Metadata name="Role.fast8Diary_ОсновнаяРоль" id="2161ce34-a854-4b6b-b008-22c982c435ea" configVersion="093280a051b4f93ef1e52bc921165fd21a94488b"/>
 		<Metadata name="Role.БазовыеПраваБСП" id="825896b9-a97d-4f15-aea4-d00006541af6" configVersion="bbdaa0de9bb60413543685f9553daa6689999b31"/>
 		<Metadata name="Role.БазовыеПраваБСП.Rights" id="825896b9-a97d-4f15-aea4-d00006541af6.0" configVersion="de08c3a4ff722d926386bb52e54a7eb7594c677e"/>
 	</ConfigVersions>
