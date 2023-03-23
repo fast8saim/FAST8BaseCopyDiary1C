@@ -3,7 +3,7 @@
 	<ConfigVersions>
 		<Metadata name="CommonModule.fast8Diary_ВызовСервера" id="e28c0ce6-04ee-4370-9f58-7db2d8345426" configVersion="a01d9010ed606731a8cb40c04dd21a4796ca8cf1"/>
 		<Metadata name="CommonModule.fast8Diary_ВызовСервера.Module" id="e28c0ce6-04ee-4370-9f58-7db2d8345426.0" configVersion="5495bc62b44f1143e599b06776099140ce626379"/>
-		<Metadata name="Configuration.FAST8BaseCopyDiary1C" id="c395f97d-3787-4b92-9a1c-a1a04a601e54" configVersion="3b71563ea7d6496072e4dad083adb71173980b49"/>
+		<Metadata name="Configuration.FAST8BaseCopyDiary1C" id="c395f97d-3787-4b92-9a1c-a1a04a601e54" configVersion="eb14f34e249b7a4f90f33910a35edb1bb0ba3798"/>
 		<Metadata name="Configuration.FAST8BaseCopyDiary1C.ManagedApplicationModule" id="c262c4e9-ba51-45bd-aece-816f88be57f2.6" configVersion="2821bdd1720f4873b1080e93acbce94a900923c5"/>
 		<Metadata name="DataProcessor.fast8Diary_ДневникКопииБазы" id="33e0d1cb-3fb7-4054-a7d4-e6f29fcce509" configVersion="10d0d2c2d042c913a2920eba7cd6d05cbdaa8a57"/>
 		<Metadata name="DataProcessor.fast8Diary_ДневникКопииБазы.Form.fast8Diary_ВводСобытия" id="8e1f5892-f287-4dfe-81b9-7226899322ce" configVersion="269c92e6891b94376fa66cafe7a60380c19c9b0e"/>
